@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>classificação das cores</title>
+  </head>
+<body>
+  <header title="Classificação das cores"></header>
+
+  <h2 id="topo">CLASSIFICAÇÃO DAS CORES</h2>
+  
+  <h3>Cores Primárias</h3>
+  <ol>
+    <li>Vermelho</li>
+    <li>Azul</li>
+    <li>Amarelo</li>
+    </ol>
+  </li>
+  <li>
+      <h3>Cores Secundárias</h3>
+      <ol>
+        <li>Verde</li>
+        <li>Laranja</li>
+        <li>Roxo</li>
+    </ol>
+     </li>
+  <li>
+       <h3>Cores Terciárias</h3>
+    <ol>
+<li>Laranja</1i>
+<li>Oliva</li>
+<li>Turquesa</1i>
+<li>Celeste</li>
+<li>Violeta</li>
+<li>Rosa</li>
+ </ol>
+   </li>
+ </ul>
+   </body>
+      </html>
+       
+   
